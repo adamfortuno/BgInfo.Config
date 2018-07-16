@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft\BGInfo\Bginfo.exe" "C:\Program Files (x86)\Microsoft\BGInfo\default.bgi" /SILENT /TIMER:0 /NOLICPROMPT
